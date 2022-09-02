@@ -4,6 +4,11 @@
 
 ![Cristopher Paiva GitHub stats](https://github-readme-stats.vercel.app/api?username=cristopherpds&count_private=true&show_icons=true&theme=react)
 
+<div> 
+  <a href = "mailto:josuepaiva7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pdscristopher/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a> 
+
+</div>
 <!--
 **pdsCristopher/pdsCristopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
