@@ -1,5 +1,27 @@
 ### Hi there 👋
 
+
+<div align="center">
+  <a href="https://github.com/cristopherpds">
+  <img height="160em" src="https://github-readme-stats.vercel.app/api?username=cristopherpds&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+  <img height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=cristopherpds&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+<div style="display: inline_block" align="center"><br>
+  <img align="center" alt="Fla-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+  <img align="center" alt="Fla-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+  <img align="center" alt="Fla-Bootstrap" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bootstrap/bootstrap-original.svg" />
+  <img align="center" alt="Fla-JS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+  <img align="center" alt="Fla-Figma" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" />
+  <img align="center" alt="Fla-Git" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+  <img align="center" alt="Fla-VsCode" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" />
+  <img align="center" alt="Fla-Linux" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+  <img align="center" alt="Fla-Bash" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
+  <img align="center" alt="Fla-Typescript" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
+  <img align="center" alt="Fla-Ruby" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+  
+</div>
+  
+<!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristopherpds&theme=react)](https://github.com/anuraghazra/github-readme-stats)
 
 ![Cristopher Paiva GitHub stats](https://github-readme-stats.vercel.app/api?username=cristopherpds&count_private=true&show_icons=true&theme=react)
@@ -12,7 +34,7 @@
 
 ![Snake animation](https://github.com/cristopherpds/cristopherpds/blob/output/github-contribution-grid-snake.svg)
 
-<!--
+
 **pdsCristopher/pdsCristopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
