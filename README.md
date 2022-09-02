@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hi there I'm Cristopher Paiva <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" height="auto" width="30">
 
 
 <div align="center">
@@ -18,18 +18,13 @@
   <img align="center" alt="Fla-Bash" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" alt="Fla-Typescript" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Fla-Ruby" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
-  
 </div>
 
+<hr>
 
-  <hr>
-
-<div> 
-  <a href = "mailto:josuepaiva7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/pdscristopher/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
-
-</div>
-
+## 🤝🏻 Connect with Me
+[![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pdscristopher)
+[![GMAIL](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)](mailto:josuepaiva7@gmail.com)
 ![Snake animation](https://github.com/cristopherpds/cristopherpds/blob/output/github-contribution-grid-snake.svg)
   
 <!--
@@ -37,8 +32,11 @@
 
 ![Cristopher Paiva GitHub stats](https://github-readme-stats.vercel.app/api?username=cristopherpds&count_private=true&show_icons=true&theme=react)
 
+<div> 
+  <a href = "mailto:josuepaiva7@gmail.com"><img src="https://img.shields.io/badge/-Gmail-%23333?style=for-the-badge&logo=gmail&logoColor=white" target="_blank"></a>
+  <a href="https://www.linkedin.com/in/pdscristopher/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white"></a> 
 
-
+</div>
 
 **pdsCristopher/pdsCristopher** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
