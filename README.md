@@ -26,6 +26,8 @@
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pdscristopher)
 [![GMAIL](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)](mailto:josuepaiva7@gmail.com)
 ![Snake animation](https://github.com/cristopherpds/cristopherpds/blob/output/github-contribution-grid-snake.svg)
+![GitHub Snake Light](github-snake.svg#gh-light-mode-only)
+![GitHub Snake dark](github-snake-dark.svg#gh-dark-mode-only)
   
 <!--
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cristopherpds&theme=react)](https://github.com/anuraghazra/github-readme-stats)
