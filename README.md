@@ -26,7 +26,7 @@
 ## 🤝🏻 Connect with Me
 [![LINKEDIN](https://img.shields.io/badge/Linkedin-black?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/pdscristopher)
 [![GMAIL](https://img.shields.io/badge/Gmail-black?style=for-the-badge&logo=gmail)](mailto:josuepaiva7@gmail.com)
-![Snake animation](https://github.com/cristopherpds/cristopherpds/blob/output/dist/github-contribution-grid-snake-dark.svg?palette=github-dark)
+![Snake animation](https://github.com/cristopherpds/cristopherpds/blob/output/github-contribution-grid-snake-dark.svg)
 
   
 <!--
