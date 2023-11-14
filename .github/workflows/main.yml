@@ -19,7 +19,7 @@ jobs:
 
       # gera um jogo da cobra a partir do gráfico de contribuições de um usuário do GitHub (<github_user_name>), produzindo uma animação SVG em <svg_out_path>
       - name: Gerar github-contribution-grid-snake.svg
-        uses: Platane/snk/svg-only@v2
+        uses: Platane/snk@v3
         with:
           github_user_name: ${{ github.repository_owner }}
           outputs: |
