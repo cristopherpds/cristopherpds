@@ -19,8 +19,13 @@
   <img align="center" alt="Fla-Bash" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/bash/bash-original.svg" />
   <img align="center" alt="Fla-Typescript" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/typescript/typescript-original.svg" />
   <img align="center" alt="Fla-Ruby" height="30" width="40"  src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/ruby/ruby-original.svg" />
+   <img align="center" alt="Docker" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg">
+  <img align="center" alt="Git" height="30" width="40" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg">
+  <img align="center" alt="Grafana" height="30" width="40" src="https://www.vectorlogo.zone/logos/grafana/grafana-icon.svg">
+  <img align="center" alt="Jenkins" height="30" width="40" src="https://www.vectorlogo.zone/logos/jenkins/jenkins-icon.svg">
+  <img align="center" alt="Kubernetes" height="30" width="40" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg">
+  <img align="center" alt="Nginx" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nginx/nginx-original.svg">
 </div>
-
 <hr>
 
 ## 🤝🏻 Connect with Me
